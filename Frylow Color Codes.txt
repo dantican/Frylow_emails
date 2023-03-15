@@ -1,0 +1,4 @@
+Frylow Color Codes
+
+RGB: R0 G107 B85
+CYMK: C89 M35 Y73 K23

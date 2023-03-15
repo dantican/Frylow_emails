@@ -1,0 +1,53 @@
+.main-container {
+  width: 6.5in;
+  height: 6.5in;
+}
+.top-left {
+  display: inline-block;
+  vertical-align: top;
+  width: 2in;
+  text-align: center;
+}
+.top-right {
+  display: inline-block;
+  vertical-align: top;
+  width: 4in;
+}
+.name {
+  margin: 0px;
+  font-weight: 700;
+  color: rgb(0,107,85);
+  font-size: 22px;
+  font-style: italic;
+}
+.position {
+  padding-bottom: 20px;
+  margin: 0px;
+  color: rgb(0,107,85);
+}
+.email, .phone1, .phone2, .phone3 {
+  padding-bottom: 5px;
+  color: rgb(0,107,85);
+  margin: 0px;
+}
+.website {
+  font-weight: 700;
+  color: rgb(0,107,85);
+}
+.frylow-logo {
+  width: 1.6in;
+  height: 1.6in;
+}
+.logo-text {
+  font-weight: 700;
+  color: rgb(0,107,85);
+}
+.bottom-banner {
+  height: 4.25in;
+  width: 6.5in;
+  background-color: white;
+}
+.bottom-banner-photo {
+  height: 3.25in;
+  width: 6.5in;
+}
